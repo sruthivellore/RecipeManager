@@ -1,0 +1,4 @@
+#Mon Mar 12 12:01:22 IST 2018
+base.0=/home/anantharam/Deepika/Git/recipeManager_final/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
